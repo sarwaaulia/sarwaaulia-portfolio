@@ -16,7 +16,7 @@ const projects = [
     ],
     tech: ["Next.js", "React.js", "Tailwind CSS", "TypeScript", "Prisma", "PostgreSQL"],
     github: "https://github.com/sarwaaulia/smart-journaling",
-    live: "#",
+    live: "https://smart-journaling.vercel.app/",
   },
   {
     title: "Littlegrow",
@@ -30,7 +30,7 @@ const projects = [
     ],
     tech: ["Next.js", "Prisma", "Supabase", "Zustand", "Midtrans", "Resend", "React Hook Form", "Zod"],
     github: "https://github.com/sarwaaulia/littlegrow",
-    live: "#",
+    live: "https://littlegrow.vercel.app/",
   },
   {
     title: "Circle App",
