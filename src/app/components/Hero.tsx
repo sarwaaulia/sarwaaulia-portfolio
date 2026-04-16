@@ -35,16 +35,18 @@ export default function Hero() {
 						className="mt-6 text-base md:text-lg opacity-90 max-w-xl mx-auto md:mx-0"
 						style={{ color: "var(--text-muted)" }}
 					>
-						A passionate Full Stack Developer who loves building stable and
-						scalable end-to-end applications — from clean UI/UX to secure
-						databases — using React, Next.js, Tailwind, PostgreSQL, Supabase,
-						and Prisma.
+						A Full Stack Developer experienced in building scalable end-to-end
+						web applications using JavaScript, Go, and TypeScript. Specialized
+						in real-time systems, AI integration (Gemini API), and payment
+						gateway implementation (Midtrans), with a focus on clean
+						architecture and high-performance PostgreSQL systems.
 					</p>
 
 					<div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
 						<a
-							href="https://drive.google.com/file/d/1E08JZw4Ct6K0FeqyON-0_QwMkpP2UOSp/view"
+							href="https://drive.google.com/uc?export=download&id=1hK2O1ONC4HMh6jRmwJ29hWi6ZT8_WyYz"
 							target="_blank"
+							rel="noopener noreferrer"
 							style={{
 								backgroundColor: "var(--accent)",
 								color: "var(--nav-bg)",
@@ -89,7 +91,7 @@ export default function Hero() {
             "
 					>
 						<Image
-							src="/aulia.jpg"
+							src="/Sarwa.png"
 							alt="Sarwa Aulia"
 							fill
 							priority
